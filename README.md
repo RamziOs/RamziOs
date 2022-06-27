@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ramzios.github.io/ramziosman/](https://ramzios.github.io/ramziosman/)
 
-- 💬 Ask me about **JavaScript, VueJs, Flutter,**
+- 💬 Ask me about **JavaScript, React Js, Flutter,**
 
 - 📫 How to reach me **ramzios22211@gmail.com**
 
