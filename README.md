@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning React Native**
 
-- 👨‍💻 All of my projects are available at [https://ramzios.github.io/ramziosman/](https://ramzios.github.io/ramziosman/)
+- 👨‍💻 All of my projects are available at [https://ramziosman.com/](https://ramziosman.com/) [https://ramzios.github.io/ramziosman/](https://ramzios.github.io/ramziosman/)
 
 - 💬 Ask me about **JavaScript, React Js, Flutter,**
 
