@@ -7,7 +7,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramzios&label=Profile%20views&color=0e75b6&style=flat" alt="ramzios" /> </p>
 
-<p align="left"> <a href="https://twitter.com/r_a_m_z_i___o_s" target="_blank"><img src="https://img.shields.io/twitter/follow/r_a_m_z_i___o_s?logo=twitter&style=for-the-badge" alt="r_a_m_z_i___o_s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RamziOsman_" target="_blank"><img src="https://img.shields.io/twitter/follow/RamziOsman_?logo=twitter&style=for-the-badge" alt="RamziOsman_" /></a> </p>
 
 - 🌱 I’m currently learning React Native**
 
