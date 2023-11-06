@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/RamziOsman_" target="_blank"><img src="https://img.shields.io/twitter/follow/RamziOsman_?logo=twitter&style=for-the-badge" alt="RamziOsman_" /></a> </p>
 
-- 🌱 I’m currently learning React Native**
+- 🌱 I’m currently learning React Native,**
 
 - 👨‍💻 All of my projects are available at [https://ramziosman.com/](https://ramziosman.com/) [https://ramzios.github.io/ramziosman/](https://ramzios.github.io/ramziosman/)
 
