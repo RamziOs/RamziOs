@@ -1,7 +1,7 @@
 [![MasterHead](https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ramzi Osman</h1>
 <h3 align="center">A Software Developer specialized in Frontend Developer & Flutter Developer.</h3>
-<p> I'm working as a senior frontend developer at brown technology, I am a computer technology developer. I have web development experience, front end, and user experience expert. Backend development, mobile applications, and design. I am a person with high leadership skills, capable of planning, organizing, and designing, as well as being proactive.</p>
+<p> I'm working as a senior Web developer at WOSTB in Abu Dhabi, United Arab Emirates, I am a computer technology developer. I have web development experience, front end, and user experience expert. Backend development, mobile applications, and design. I am a person with high leadership skills, capable of planning, organizing, and designing, as well as being proactive.</p>
 <span>Among my strengths stand out - critical thinking - Solving the problem - collaborative work. </span>
 <br>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
