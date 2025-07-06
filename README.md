@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning React Native,**
 
-- 👨‍💻 All of my projects are available at [https://ramziosman.com/](https://ramziosman.com/) [https://ramzios.github.io/ramziosman/](https://ramzios.github.io/ramziosman/)
+- 👨‍💻 All of my projects are available at [https://ramziosman.dev/](https://ramziosman.dev/) [https://ramzios.github.io/ramziosman/](https://ramzios.github.io/ramziosman/)
 
 - 💬 Ask me about **JavaScript, React Js, Flutter,**
 
-- 📫 How to reach me **contact@ramziosman.com** 
+- 📫 How to reach me **ramziosman@ramziosman.dev** 
 - 📫 **ramzios22211@gmail.com** 
-- 📫 **ramzios22211@icoud.com**
+- 📫 **ramzios22211@icloud.com**
 
 - ⚡ Fun fact **I am the best at explaining programming to you.**
 
