@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JavaScript, React Js, Flutter,**
 
-- 📫 How to reach me **ramziosman@ramziosman.dev** 
+- 📫 How to reach me **contact@ramziosman.dev** 
 - 📫 **ramzios22211@gmail.com** 
 - 📫 **ramzios22211@icloud.com**
 
